@@ -1,6 +1,8 @@
 # 7 días de codigo.
 <img width="1120" height="385" alt="imagen con '#7DAYofcode'" src="https://github.com/user-attachments/assets/d252b449-83eb-45e1-a2ca-bf810323f5bd" />
+
 ## desafio.
+
 Este desafío propuesto por Alura latam donde estuvimos 7 días reforzando conceptos y practicando java script.
 
 
